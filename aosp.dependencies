@@ -1,13 +1,14 @@
 [
   {
-    "repository": "device_oneplus_sdm845-common",
-    "target_path": "device/oneplus/sdm845-common",
-    "branch"      : "fourteen"
+    "repository"  : "Grill-Laux/device_oneplus_sdm845-common",
+    "target_path" : "device/oneplus/sdm845-common",
+    "branch"      : "fourteen-qpr1"
+    "remote"      : "github"
   },
   {
-    "repository"  : "vendor_oneplus_fajita",
+    "repository"  : "Grill-Laux/vendor_oneplus_fajita",
     "target_path" : "vendor/oneplus/fajita",
-    "branch"      : "fourteen",
-    "remote"      : "pixel-devices-blobs"
+    "branch"      : "fourteen-qpr1"
+    "remote"      : "github"
   }
 ]
