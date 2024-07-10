@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_fajita.mk
+    $(LOCAL_DIR)/evolution_fajita.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_fajita-user \
-    aosp_fajita-userdebug \
-    aosp_fajita-eng
+    evolution_fajita-user \
+    evolution_fajita-userdebug \
+    evolution_fajita-eng
